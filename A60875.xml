@@ -1,0 +1,176 @@
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+   <teiHeader>
+      <fileDesc>
+         <titleStmt>
+            <title>Some weighty considerations, humbly proposed to the honourable members of the ensuing assembly of the states of Scotland by a lover of his countrey's liberty.</title>
+            <author>Lover of his countrey's liberty.</author>
+         </titleStmt>
+         <editionStmt>
+            <edition>
+               <date>1689</date>
+            </edition>
+         </editionStmt>
+         <extent>Approx. 11 KB of XML-encoded text transcribed from 5 1-bit group-IV TIFF page images.</extent>
+         <publicationStmt>
+            <publisher>Text Creation Partnership,</publisher>
+            <pubPlace>Ann Arbor, MI ; Oxford (UK) :</pubPlace>
+            <date when="2011-04">2011-04 (EEBO-TCP Phase 2).</date>
+            <idno type="DLPS">A60875</idno>
+            <idno type="STC">Wing S4634</idno>
+            <idno type="STC">ESTC R14070</idno>
+            <idno type="EEBO-CITATION">12279130</idno>
+            <idno type="OCLC">ocm 12279130</idno>
+            <idno type="VID">58602</idno>
+            <availability>
+               <p>To the extent possible under law, the Text Creation Partnership has waived all copyright and related or neighboring rights to this keyboarded and encoded edition of the work described above, according to the terms of the CC0 1.0 Public Domain Dedication (http://creativecommons.org/publicdomain/zero/1.0/). This waiver does not extend to any page images or other supplementary files associated with this work, which may be protected by copyright or other license restrictions. Please go to https://www.textcreationpartnership.org/ for more information about the project.</p>
+            </availability>
+         </publicationStmt>
+         <seriesStmt>
+            <title>Early English books online.</title>
+         </seriesStmt>
+         <notesStmt>
+            <note>(EEBO-TCP ; phase 2, no. A60875)</note>
+            <note>Transcribed from: (Early English Books Online ; image set 58602)</note>
+            <note>Images scanned from microfilm: (Early English books, 1641-1700 ; 926:12)</note>
+         </notesStmt>
+         <sourceDesc>
+            <biblFull>
+               <titleStmt>
+                  <title>Some weighty considerations, humbly proposed to the honourable members of the ensuing assembly of the states of Scotland by a lover of his countrey's liberty.</title>
+                  <author>Lover of his countrey's liberty.</author>
+                  <author>Scotland. Parliament.</author>
+               </titleStmt>
+               <extent>[2], 6 p.   </extent>
+               <publicationStmt>
+                  <publisher>[s.n.],</publisher>
+                  <pubPlace>London :</pubPlace>
+                  <date>1689.</date>
+               </publicationStmt>
+               <notesStmt>
+                  <note>Reproduction of original in the University of Illinois (Urbana-Champaign Campus). Library.</note>
+               </notesStmt>
+            </biblFull>
+         </sourceDesc>
+      </fileDesc>
+      <encodingDesc>
+         <projectDesc>
+            <p>Created by converting TCP files to TEI P5 using tcp2tei.xsl,
+      TEI @ Oxford.
+      </p>
+         </projectDesc>
+         <editorialDecl>
+            <p>EEBO-TCP is a partnership between the Universities of Michigan and Oxford and the publisher ProQuest to create accurately transcribed and encoded texts based on the image sets published by ProQuest via their Early English Books Online (EEBO) database (http://eebo.chadwyck.com). The general aim of EEBO-TCP is to encode one copy (usually the first edition) of every monographic English-language title published between 1473 and 1700 available in EEBO.</p>
+            <p>EEBO-TCP aimed to produce large quantities of textual data within the usual project restraints of time and funding, and therefore chose to create diplomatic transcriptions (as opposed to critical editions) with light-touch, mainly structural encoding based on the Text Encoding Initiative (http://www.tei-c.org).</p>
+            <p>The EEBO-TCP project was divided into two phases. The 25,368 texts created during Phase 1 of the project (2000-2009), initially available only to institutions that contributed to their creation, were released into the public domain on 1 January 2015. The approximately 40,000 texts produced during Phase 2 (2009- ), of which 34,963 had been released as of 2020, originally similarly restricted, were similarly freed from all restrictions on 1 August 2020. As of that date anyone is free to take and use these texts for any purpose (modify them, annotate them, distribute them, etc.). But we do respectfully request that due credit and attribution be given to their original source.</p>
+            <p>Users should be aware of the process of creating the TCP texts, and therefore of any assumptions that can be made about the data.</p>
+            <p>Text selection was based on the New Cambridge Bibliography of English Literature (NCBEL). If an author (or for an anonymous work, the title) appears in NCBEL, then their works are eligible for inclusion. Selection was intended to range over a wide variety of subject areas, to reflect the true nature of the print record of the period. In general, first editions of a works in English were prioritized, although there are a number of works in other languages, notably Latin and Welsh, included and sometimes a second or later edition of a work was chosen if there was a compelling reason to do so.</p>
+            <p>Image sets were sent to external keying companies for transcription and basic encoding. Quality assurance was then carried out by editorial teams in Oxford and Michigan. 5% (or 5 pages, whichever is the greater) of each text was proofread for accuracy and those which did not meet QA standards were returned to the keyers to be redone. After proofreading, the encoding was enhanced and/or corrected and characters marked as illegible were corrected where possible up to a limit of 100 instances per text. Any remaining illegibles were encoded as &lt;gap&gt;s. Understanding these processes should make clear that, while the overall quality of TCP data is very good, some errors will remain and some readable characters will be marked as illegible. Users should bear in mind that in all likelihood such instances will never have been looked at by a TCP editor.</p>
+            <p>The texts were encoded and linked to page images in accordance with level 4 of the TEI in Libraries guidelines.</p>
+            <p>Copies of the texts have been issued variously as SGML (TCP schema; ASCII text with mnemonic sdata character entities); displayable XML (TCP schema; characters represented either as UTF-8 Unicode or text strings within braces); or lossless XML (TEI P5, characters represented either as UTF-8 Unicode or TEI g elements).</p>
+            <p>Keying and markup guidelines are available at the <ref target="http://www.textcreationpartnership.org/docs/.">Text Creation Partnership web site</ref>.</p>
+         </editorialDecl>
+         <listPrefixDef>
+            <prefixDef ident="tcp"
+                       matchPattern="([0-9\-]+):([0-9IVX]+)"
+                       replacementPattern="http://eebo.chadwyck.com/downloadtiff?vid=$1&amp;page=$2"/>
+            <prefixDef ident="char"
+                       matchPattern="(.+)"
+                       replacementPattern="https://raw.githubusercontent.com/textcreationpartnership/Texts/master/tcpchars.xml#$1"/>
+         </listPrefixDef>
+      </encodingDesc>
+      <profileDesc>
+         <langUsage>
+            <language ident="eng">eng</language>
+         </langUsage>
+         <textClass>
+            <keywords scheme="http://authorities.loc.gov/">
+               <term>Church and state --  Scotland.</term>
+            </keywords>
+         </textClass>
+      </profileDesc>
+      <revisionDesc>
+         <change>
+            <date>2009-11</date>
+            <label>TCP</label>Assigned for keying and markup</change>
+         <change>
+            <date>2009-12</date>
+            <label>SPi Global</label>Keyed and coded from ProQuest page images</change>
+         <change>
+            <date>2010-01</date>
+            <label>Mona Logarbo</label>Sampled and proofread</change>
+         <change>
+            <date>2010-01</date>
+            <label>Mona Logarbo</label>Text and markup reviewed and edited</change>
+         <change>
+            <date>2010-04</date>
+            <label>pfs</label>Batch review (QC) and XML conversion</change>
+      </revisionDesc>
+   </teiHeader>
+   <text xml:lang="eng">
+      <front>
+         <div type="title_page">
+            <pb facs="tcp:58602:1"/>
+            <!-- PDF PAGE 59 -->
+            <pb facs="tcp:58602:1" rendition="simple:additions"/>
+            <!-- PDF PAGE 59 -->
+            <p>Some WEIGHTY Conſiderations, Humbly Propoſed to the HONOURABLE MEMBERS Of the Enſuing ASSEMBLY Of the STATES of SCOTLAND.</p>
+            <p>By a Lover of his Countrey's Liberty.</p>
+            <p>
+               <hi>LONDON,</hi> Printed in the Year, 1689.</p>
+         </div>
+      </front>
+      <body>
+         <div type="text">
+            <pb facs="tcp:58602:2"/>
+            <!-- PDF PAGE 60 -->
+            <pb n="1" facs="tcp:58602:2" rendition="simple:additions"/>
+            <!-- PDF PAGE 60 -->
+            <head>Some WEIGHTY Conſiderations, Humbly Preſented to the HONOURABLE MEMBERS Of the Enſuing ASSEMBLY OF The STATES of <hi>SCOTLAND.</hi>
+            </head>
+            <p>ALL conſiderate States and Princes have uſed Religion as a mean to ſweeten the ſpirits of their Subjects, and to make them obedient from Choice and Principle.</p>
+            <p>The <hi>Roman</hi> State which Conquered a great part of the then known World did ſo much as they could, comply with the Re<g ref="char:EOLhyphen"/>ligious Rites of their ſubdued Provinces; and were ſo far from obtruding their own upon the People ſubjected to them, that the <hi>Jews</hi> who averred all other Nations to be Idolatrous and Prophane, were protected in their Church-Government and ſa<g ref="char:EOLhyphen"/>cred Rites at home, in their Synagogues, and freedom to make Proſelytes in other Provinces.</p>
+            <p>But now for a long tract of Years it hath been the buſineſs of the Government of <hi>Scotland</hi> to force a Church-Government, a
+<pb n="2" facs="tcp:58602:3"/>
+               <!-- PDF PAGE 61 -->Diſcipline and ſet of Prieſts upon a devout and ſincere People, to the racking of their Conſciences, fomenting of Broyls and Tumults, continuing a horrid ſpectacle of Executions; and in ſhort, to the introducing of Ignorance and all manner of Pro<g ref="char:EOLhyphen"/>fanity.</p>
+            <p>It is expected that the Honourable Aſſembly of the States will conſider, that it is not only againſt good Policy to force Con<g ref="char:EOLhyphen"/>ſcience, but as much againſt the Rights of Mankind, as to uſe violence againſt Life or Chaſtity, ſince he who complyeth for fear of Puniſhment with what is againſt his light, (whether good or bad in it ſelf) muſt be obnoxious to the Anger of an irreſiſtable God, and to the melanchollick ſentences of a wounded ſpirit. And ſince the Perſons and Eſtates of ſuch as ſtandeth it out, muſt be a Victim to the ſanction of ſevere Laws, for refuſing to of<g ref="char:EOLhyphen"/>fend God and wound their Conſciences; which if duely pon<g ref="char:EOLhyphen"/>dered, cannot but encline the Honourable Aſſembly to reſtore to the People their natural Rights of Worſhipping God, and chooſing Teachers according to their Conſciences, to inſtruct and rule them ſuitably to the Goſpel of Peace, and their Reforma<g ref="char:EOLhyphen"/>tion from Romiſh T<gap reason="illegible" extent="2 letters">
+                  <desc>••</desc>
+               </gap>anny.</p>
+            <p>It hath been the ſad Fate of the Kingdom of <hi>Scotland</hi> to be ruined by Parliaments (the glorious Bulwarks of our neigh<g ref="char:EOLhyphen"/>bouring Nation) the Conſtitution whereof hath been manifeſtly perverted by various Innovations obtruded upon them by force and fraud.</p>
+            <p>The Officers of State, at firſt only admitted to be preſent in Parliament as Attendants upon the King's Perſon, have by de<g ref="char:EOLhyphen"/>grees wheedled themſelves into a Cuſtom of Voting, albeit no part of the three Eſtates of Parliament.</p>
+            <p>Though our Kings have had the Power of conferring Titles of Honour, yet ſuch Grants for ſeveral Ages gave no Right to Vote in Parliament, 'till firſt approved by the Eſtates of Par<g ref="char:EOLhyphen"/>liament. By the Invaſion upon this Right of Parliaments, the number of their Hereditary Members doth now exceed the number of the Elective, though they poſſeſs not ſo much as a tenth part of the Property of the Nation, and ſeveral poſſeſs no part of it at all.</p>
+            <p>The fourteen Prelates obtruded upon the Parliaments, on pur<g ref="char:EOLhyphen"/>poſe to ſecure ſo many Votes to the Court, hath been ſuffered to
+<pb n="3" facs="tcp:58602:3"/>
+               <!-- PDF PAGE 61 -->continue the known dead weight of the Houſe, though it cannot be underſtood what part of the Body Politick they repreſent, ſince the Clergy pretend to the Kingdom of Chiſt, whoſe King<g ref="char:EOLhyphen"/>dom is not of this World, who (to give them their due) have acted ſuitably, in conſtantly Voting for the King, whom they called their Head under Chriſt, in Prejudice of the Nations beſt Intereſt.</p>
+            <p>The Lords of the Articles were Calculate to obviate the Nati<g ref="char:EOLhyphen"/>ons reaping any ſuitable fruit of Parliament.</p>
+            <p>Members being obnoxious for what they ſpeak in Parlia<g ref="char:EOLhyphen"/>ment, is a Plague which conſumeth the Vitals of a Legiſlative Power.</p>
+            <p>The Impoſing of unneceſſary, diſputable, and ſelf-contradict<g ref="char:EOLhyphen"/>ing Oaths on all Members of Parliament, and Electors of ſuch, hath deprived many of the Nobility of their Birth-rights, and the Gentry and Citizens from Electing and being Elected.</p>
+            <p>It hath done no good ſervice to our Parliaments, that only King's Barons are admitted to Elect, which in ſome Shires are very few, whereas many Gentlemen who bear greater burden than many of them, and are as much to be ſuppoſed in the In<g ref="char:EOLhyphen"/>tereſt of the Countrey, are debarred from Electing, upon a ficti<g ref="char:EOLhyphen"/>on of the Fewdall Law, whereby they are eſteemed to be repre<g ref="char:EOLhyphen"/>ſented in their Superiours, which was more tolerable while the Conſtitution was ſtanding, to which the Fewdall Law was Cal<g ref="char:EOLhyphen"/>culate.</p>
+            <p>It is not doubted, but the Wiſdom of our great Aſſembly ſhall find out Expedients to remove all Innovations, and ſettle the Parliaments on a ſolid Foundation.</p>
+            <p>Moſt of all our Miniſters of State, Judges and Privy Coun<g ref="char:EOLhyphen"/>cellers, have been theſe Twenty Eight years by-paſt the great Grievances of the Nation, the Subſtance of the Coun<g ref="char:EOLhyphen"/>trey hath been exhauſted by perſons of all Ranks going to Court for Redreſs, univerſally to no purpoſe: Upon which accompt, none can doubt but a wiſe Aſſembly, which hath it in their hands to prevent ſuch miſchiefs, ſhall ſecure to Par<g ref="char:EOLhyphen"/>liaments their ancient Priviledges, to recommend perſons of Integrity and Capacity for the Service of the Nation in all publick Truſts; and above all make ſure the frequent aſſem<g ref="char:EOLhyphen"/>bling of Parliaments, a ſovereign Antidote againſt bad Mi<g ref="char:EOLhyphen"/>niſters.</p>
+            <p>
+               <pb n="4" facs="tcp:58602:4"/>
+               <!-- PDF PAGE 62 -->
+Whereas every wiſe Government conſidereth by what means it can probably be defended, and where the publick Revenue of the Countrey is no wiſe ſufficient to ſuſtain a ſtanding Force proportioned to their defence, care is taken to arm, incourage and model the Subjects for the ſecurity of the State.</p>
+            <p>The Subjects of <hi>Scotland</hi> have been again and again diſarm<g ref="char:EOLhyphen"/>ed, a ſtanding Force hath been kept on foot, to the number of three or four thouſand men, no wayes ſuited to the De<g ref="char:EOLhyphen"/>fence of the Countrey, but ſufficient to Haraſs and Inſlave a diſarmed people.</p>
+            <p>It cannot eſcape the Providence of the Honourable Aſſem<g ref="char:EOLhyphen"/>bly, to put the Subjects in poſture of Defence, under Officers no leſs recommended upon the accompt of Integrity and Love to their Countrey, as upon the Accompt of Courage and Ex<g ref="char:EOLhyphen"/>perience: And take care that no ſtanding Force be ſuffered to be kept in the Kingdom without conſent of Parliament, nor be Leavied to ſerve under other States or Princes, with<g ref="char:EOLhyphen"/>out Permiſſion and Obligation, that they ſhall be ſent back when the Parliament ſhall find it neceſſary for the Nations Service.</p>
+            <p>A long continued Race of both Elective and Succeſſive <hi>Scotch</hi> Kings, have conſtantly acknowledged, that they are bound to Oblige themſelves by ſolemn Oath, to protect their Subjects and defend their Rights, at the ſolemn receipt of the Peoples Allegiance.</p>
+            <p>But to Crown the Miſeries of that bleeding Nation, <hi>James</hi> the Seventh, pretending a Right from God alone, aſſumed the Govern<g ref="char:EOLhyphen"/>ment, without obliging himſelf by ſolemn Oath to the Subjects, contrary to the Fundamental Conſtitution, continual Cuſtom and Acknowledgment of his Anceſtors, and an expreſs Statute, which is only a Declaration of the fundamental Conſtitution, enlarged by what was abſolutely neceſſary for the peace and ſafety of the Subjects when Reformed from <hi>Romiſh</hi> Darkneſs and Superſtition: And as his being a bigoted Papiſt did ren<g ref="char:EOLhyphen"/>der him incapable to oblige himſelf to his Subjects, according to the terms of the Oath contained in the foreſaid Statute, and conſequently incapable of the Regal Dignity; ſo his Ar<g ref="char:EOLhyphen"/>bitrary and Popiſh Deſigns made it impoſſible he could ingage
+<pb n="5" facs="tcp:58602:4"/>
+               <!-- PDF PAGE 62 -->himſelf to defend the Liberty and Property of the Subjects: And if the Act of Succeſſion made in the Parliament, Eighty one, ſhould be objected, the Anſwer is obvious, that that pre<g ref="char:EOLhyphen"/>tended Parliament was holden by himſelf, whom many former Laws had rendered incapable of bearing any Office in our Proteſtant Countrey, yea incapable of being a lawful Subject, and ſo all its Acts are <hi>ipſo ſacto,</hi> null and void.</p>
+            <p>Again, it was not in the power of any Parliament to alter a fundamental Conſtitution, more ancient then Parliaments, than it was to turn Kings or Parliaments out of doors.</p>
+            <p>In ſhort, his Uſurping the Government, his Arbitrary ma<g ref="char:EOLhyphen"/>nagement thereof; and at laſt his relinquiſhing Great <hi>Brittan,</hi> and betaking himſelf to the protection of the Arch-Enemy of Chriſtianity, yea, Humanity it ſelf, giveth ſufficient ground to declare him an Enemy of this Kingdom, and the Peoples Right to provide for themſelves.</p>
+            <p>Since the Almighty God hath raiſed up the Prince of <hi>Orange</hi> now King of <hi>England</hi> (the hereditary <hi>Hercules</hi> of the latter World) to undertake ſo glorious an Enterprize, as the deli<g ref="char:EOLhyphen"/>vering of <hi>Brittain</hi> and <hi>Ireland</hi> from Popery and Slavery, and hath hitherto bleſſed his great and good Deſigns with ſuitable ſucceſs: Gratitude and Juſtice requireth the Honourable Aſ<g ref="char:EOLhyphen"/>ſembly to conferr the Regal Dignity upon him, that he may be the more encouraged to accompliſh the Deliverance of theſe Nations, and aſſiſted in the procurement of an univerſal Repoſe to all <hi>Chriſtendom.</hi>
+            </p>
+            <p>The former prelimenaries cannot be diſagreeable to a Prince who ſtriveth with his Subjects to put them in a Condition, that it may be in his and his Succeſſors power to do them good, but not to hurt them.</p>
+            <p>It is not to be doubted, but the Honourable Aſſembly will find it the Intereſt of Mankind to pray, <hi>Let King William live for ever;</hi> and to make no otherwiſe mention of a Succeſſor, than to renew their Laws diſenabling all Papiſts to have any Intereſt in the Government of the Kingdom, and to appoint the Parliament immediately preceeding the deceaſe of King <hi>William</hi> (whoſe Life God long preſerve) to aſſemble within Fif<g ref="char:EOLhyphen"/>teen days after his deceaſe.</p>
+            <p>
+               <pb n="6" facs="tcp:58602:5"/>
+               <!-- PDF PAGE 63 -->
+It is likewiſe hoped, that the Honourable Aſſembly (ſo ſoon as the Nation's moſt preſſing Affairs are ſettled) will fall upon proper Expedients to obtain an Union with our bordering Nation, that ſo the united Strength of great <hi>Britain</hi> may be intirely laid out for the Relief of our Neighbouring Proteſtants, yet groaning under the Heavy Yoak of their An<g ref="char:EOLhyphen"/>tichriſtian <hi>Romiſh</hi> Tyrants.</p>
+            <trailer>FINIS.</trailer>
+            <pb facs="tcp:58602:5"/>
+            <!-- PDF PAGE 63 -->
+         </div>
+      </body>
+   </text>
+</TEI>
